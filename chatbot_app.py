@@ -45,7 +45,7 @@ def analyze_sentiment(user_message):
 
 
 # Streamlit UI
-st.title("Mental Health Chatbot")
+st.title("CALM CONNECT")
 
 st.write("Feel free to ask any questions or share your thoughts about mental health.")
 
